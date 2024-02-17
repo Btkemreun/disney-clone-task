@@ -1,0 +1,408 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+
+background-color: #040814;
+
+}
+
+
+
+
+
+.oturum-btn {
+
+    position: absolute;
+   left: 1737px;
+   top: 13px;
+
+}
+
+.oturum-btn button {
+
+    padding: 15px;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: large;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.7px;
+    border: 5px white;
+}
+
+.oturum-btn button:hover {
+
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+
+}
+
+.main-background img {
+
+    background-repeat: no-repeat;
+    width: 100%;
+   
+}
+
+.disney-desc {
+
+    position: absolute;
+    bottom: 422px;
+    left: 303px;
+    font-size: xxx-large;
+    color: white;
+    text-align: center;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: bold;
+}
+
+.dil-iptal {
+    color: white;
+    position: absolute;
+    left: 804px;
+    letter-spacing: 0.8px;
+    font-size: x-large;
+    bottom: 380px
+    
+}
+
+
+.üyebtn {
+     top: 554px;
+    position: absolute;
+    left: 775px 
+    
+}
+
+.üyebtn button {
+     color: white;
+    background-color: #3535f3;
+    width: 330px;
+    padding: 1rem;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.8px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.yıl-üye {
+
+    position: absolute;
+    left: 668px;
+    top: 637px;
+}
+
+.yıl-üye p {
+
+    color: rgb(187, 180, 180);
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.fatura {
+    color: rgb(187, 180, 180);
+    position: absolute;
+    left: 756px;
+    bottom: 220px 
+    
+}
+
+.fatura p {
+
+    font-size: small;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.altback img {
+
+    width: 100%;
+
+}
+
+.altback {
+
+    position: absolute
+}
+
+.altback-p {
+    margin-left: 85px;
+    font-size: xx-large;
+    position: relative;
+    color: white;
+    margin-top: 337px;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+}
+
+
+.kac-con {
+
+    position: relative;
+    color: rgb(187, 180, 180);
+    font-size: larger;
+    margin-left: 85px;
+    margin-top: 15px;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.disney-alt {
+
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.disney-alt img {
+
+    width: 100%;
+    margin-top: 479px;
+}
+
+.dile-con {
+
+    color: white;
+    position: relative;
+    text-align: center;
+    margin-top: 434px;
+    font-size: xx-large;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.7px;
+}
+
+.dile-rot {
+
+    color: rgb(187, 180, 180);
+    position: relative;
+    margin-top: 25px;
+    text-align: center;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.7px;
+}
+
+
+.sonsuz {
+
+    display: flex;
+    position: absolute;
+    margin-top: 895px;
+}
+
+.favori {
+    display: flex;
+    margin-top: 895px;
+    position: absolute;
+    margin-left: 675px;
+}
+
+.kullanıcı {
+
+    display: flex;
+    justify-content: end;
+    margin-top: 895px;
+    padding-bottom: 150px;
+}
+
+.sonsuz-alt1 {
+    color: white;
+    position: absolute;
+    margin-top: 1040px;
+    margin-left: 198px;
+    font-size: x-large;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.8px;
+    font-weight: bold;
+}
+
+
+.sonsuz-alt2 {
+    color: rgb(187, 180, 180);
+    position: absolute;
+    margin-top: 1085px;
+    margin-left: 96px;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    
+}
+
+.fav-alt1 {
+    color: white;
+    position: absolute;
+    margin-top: 1040px;
+    margin-left: 852px;
+    font-size: x-large;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.8px;
+    font-weight: bold;
+
+}
+
+
+.fav-alt2{
+    color: rgb(187, 180, 180);
+    position: absolute;
+    margin-top: 1085px;
+    margin-left: 757px;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+
+}
+
+
+.kul-alt1 {
+    color: white;
+    position: absolute;
+    margin-left: 1427px;
+    margin-top: 1040px;
+    font-size: x-large;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.8px;
+    font-weight: bold;
+
+}
+
+
+.kul-alt2 {
+    color: rgb(187, 180, 180);
+    position: absolute;
+    margin-left: 1362px;
+    margin-top: 1084px;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+
+}
+
+
+.sık-1 {
+
+    margin-left: 75px;
+    margin-bottom: 1rem;
+
+}
+
+.sık-2 {
+
+    margin-left: 75px;
+    margin-bottom: 1rem;
+
+}
+
+.sık-3 {
+
+
+    margin-left: 75px;
+    margin-bottom: 1rem;
+}
+
+
+.sık-4 {
+
+    margin-left: 75px;
+    margin-bottom: 1rem;
+
+}
+
+.sık-5 {
+
+    margin-left: 75px;
+    margin-bottom: 1rem;
+
+}
+
+.sık-1 button {
+
+    padding: 1rem;
+    width: 95%;
+    text-align: justify;
+    background-color: #13151d;
+    color: white;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    border: 5px;
+    cursor: pointer;
+}
+
+
+.sık-2 button {
+
+    padding: 1rem;
+    width: 95%;
+    text-align: justify;
+    background-color: #13151d;
+    color: white;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    border: 5px;
+    cursor: pointer;
+
+}
+
+
+.sık-3 button {
+
+    padding: 1rem;
+    width: 95%;
+    text-align: justify;
+    background-color: #13151d;
+    color: white;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    border: 5px;
+    cursor: pointer;
+
+}
+
+
+.sık-4 button {
+
+    padding: 1rem;
+    width: 95%;
+    text-align: justify;
+    background-color: #13151d;
+    color: white;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    border: 5px;
+    cursor: pointer;
+
+}
+
+
+.sık-5 button {
+
+    padding: 1rem;
+    width: 95%;
+    text-align: justify;
+    background-color: #13151d;
+    color: white;
+    font-size: larger;
+    font-family: "Nunito Sans", sans-serif;
+    border: 5px;
+    cursor: pointer;
+
+}
+
+
+.sık-soru {
+
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 1rem;
+    margin-top: 265px;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.8px;
+}
+
+
+
+
